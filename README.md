@@ -59,7 +59,6 @@ GitHub: https://github.com/prajaktawaghmare13/electricity-bill-analysis
 Live: https://nbviewer.org/github/prajaktawaghmare13/electricity-bill-analysis  
 
 GitHub Stats  
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prajaktawaghmare13&show_icons=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username)

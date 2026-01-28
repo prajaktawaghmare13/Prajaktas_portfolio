@@ -19,6 +19,8 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
+
+
 ```python
 class DataAnalyst:
     def __init__(self):
@@ -67,6 +69,7 @@ timeline
     2024-2025 : Completed multiple data analysis projects
     2026 : Graduating with B.Tech CSE
 ```
+
 
 </div>
 
@@ -233,6 +236,7 @@ Currently working on exciting new data analysis projects!
 ## 💡 Skills Visualization
 
 <div align="center">
+
 
 ```mermaid
 mindmap

@@ -24,6 +24,7 @@
 ```python
 class DataAnalyst:
     def __init__(self):
+
         self.name = "Prajakta Waghmare"
         self.role = "Aspiring Data Analyst"
         self.education = "B.Tech CSE (2022-2026)"
@@ -49,8 +50,11 @@ class DataAnalyst:
 ```
 
     </td>
+    
     <td width="40%" valign="middle">
+    
       <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding" width="100%">
+      
     </td>
   </tr>
 </table>

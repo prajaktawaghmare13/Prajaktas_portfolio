@@ -147,7 +147,7 @@ Analysis of job market data to identify in-demand skills
 </td>
 <td width="50%">
 
-<h3 align="center">📈 Industry Skill Insights</h3>
+<h3 align="center">📈 Sales Performance Analysis</h3>
 <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" />
